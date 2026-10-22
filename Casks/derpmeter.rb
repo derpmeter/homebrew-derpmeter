@@ -7,7 +7,7 @@ cask "derpmeter" do
   desc "Menu bar app to rate AI coding agents"
   homepage "https://derpmeter.com/apps"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DerpMeter.app"
 
