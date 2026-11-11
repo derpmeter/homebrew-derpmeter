@@ -1,8 +1,8 @@
 class Derp < Formula
   desc "Rate AI coding agents from the terminal, statusline and MCP"
   homepage "https://derpmeter.com/apps"
-  url "https://registry.npmjs.org/derpmeter/-/derpmeter-0.5.11.tgz"
-  sha256 "528a6765ae6b6bf15fd348e589e609bb29a2650852de6bad23c76adabb46fc55"
+  url "https://registry.npmjs.org/derpmeter/-/derpmeter-0.5.12.tgz"
+  sha256 "5207ef7b55788dd58a0f3815e577251bf7914b21a8e2a7c5ee058ab4a81ac53c"
   license "MIT"
 
   depends_on "node"
