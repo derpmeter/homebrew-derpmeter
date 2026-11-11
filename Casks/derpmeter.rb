@@ -1,6 +1,6 @@
 cask "derpmeter" do
-  version "0.1.13"
-  sha256 "15248de1948ba36bb213e17038a50da3eefb0bcfd7e43e705e55449fc2c20457"
+  version "0.1.14"
+  sha256 "a45701be89deae6d4ba5a9a877503489f902d83f29bacd3ae9816c20e6105aef"
 
   url "https://derpmeter.com/downloads/DerpMeter-#{version}-beta-macOS-notarized.zip"
   name "DerpMeter"
